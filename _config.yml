@@ -30,7 +30,8 @@ github_username:  bobbyely
 permalink: /:collection/:year-:month-:day-:title:output_ext
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0" 
+#theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "contrast"
 plugins:
   - jekyll-feed
