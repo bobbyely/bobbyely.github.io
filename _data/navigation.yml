@@ -1,3 +1,5 @@
 main:
+  - title: "Useful Links"
+    url: /useful-links
   - title: "About"
     url: /about
