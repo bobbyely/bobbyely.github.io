@@ -22,7 +22,7 @@ title: Tito tries web development
 #email: robert.w.ely@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Need a place to store my progress, links, definitions, thoughts.
-baseurl: "" # the subpath of your site, e.g. /blog
+
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 show_excerpts: true
@@ -30,7 +30,8 @@ github_username:  bobbyely
 permalink: /:collection/:year-:month-:day-:title:output_ext
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "air"
 plugins:
   - jekyll-feed
 
