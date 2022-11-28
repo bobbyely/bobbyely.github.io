@@ -1,6 +1,11 @@
 ---
 layout: single
 title: "Making Jekyll posts and building jekyll for github pages"
+header:
+  overlay_color: "#333"
+tags:
+  - jekyll
+  - github pages
 ---
 
 
@@ -21,6 +26,11 @@ Edit your markdown blog post using your favourite code editor. The frontmatter (
 ---
 layout: single
 title: Blog Post Title
+header:
+  overlay_color: "#333"
+tags:
+  - not much
+  - nothing here
 ---
 ~~~
 
@@ -42,5 +52,7 @@ I have already setup creating tokens for pushing to github. This requires that y
 Then:
 
 ~~~
+git add .
+git commit -m "Making a commit comment"
 git push -u origin main
 ~~~
