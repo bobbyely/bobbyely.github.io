@@ -55,6 +55,13 @@ A few things that may be foundational to my approach, useful to list, or to cue 
 - [PostgreSQL](https://www.postgresql.org/) - The World's most advanced Open Source Relational Database
 - [pgAdmin](https://www.pgadmin.org/) - PostgreSQL tools
 
+## Docker
+- [Docker](https://www.docker.com/) - Accelerated, Containerized Application Development
+
+## Design
+- [Favicon.io](https://favicon.io/) - favicon generator
+- [colors.co](https://coolors.co/) - super fast colour palette generator 
+
 ## Jekyll
 - [Jekyll](https://jekyllrb.com/) - Simple, blog-aware static sites. Compatible with Github Pages
 - [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) - The Jekyll theme I'm using for this github pages
